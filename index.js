@@ -28,4 +28,4 @@ function destructivelyDeleteFromEmployeeByKey(employee, key){
     return employee;
 }
 
-deleteFromEmployeeByKey(employee, "name");
+//deleteFromEmployeeByKey(employee, "name");
